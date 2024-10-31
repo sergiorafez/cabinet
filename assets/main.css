@@ -53,6 +53,7 @@ h1, h2, h3, h4 {
 
 h1 {
   font-size: 2.2em;
+  margin-bottom: -2px
 }
 
 h3, h4 {
@@ -80,6 +81,10 @@ code {
 a:link, a:visited {
   font-weight: bold;
   color: var(--branding);
+}
+
+a.lsec {
+  font-weight: normal;
 }
 
 hr.foot {
