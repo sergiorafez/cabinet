@@ -92,12 +92,15 @@
     <img data-src="https://telegra.ph/file/f52f327a89b2e233407da.png" class="lazyload" width="48%">
   </div>
 
-  <br><hr>
+  <hr class="foot">
   <a>Created on: May 1, 2024.</a><br>
   <a>Copyright © 2024 The BBJProjeK Organization</a><br>
 
   <!-- Scripts -->
-  <script async defer src="/assets/sfp3.min.js"></script>
   <script async defer src="/assets/lazysizes.min.js"></script>
+  <script>function calculateRemainingTime(){var startDate=new Date("2024-06-13T00:00:00");var endDate=new Date("2025-01-01T00:00:00");var currentDate=new Date();if(currentDate<startDate){document.getElementById("result").innerHTML="<i>This license starts on June 13, 2024...</i>";return}
+  var timeDifference=endDate-currentDate;if(timeDifference<0){document.getElementById("result").innerHTML="<i>This project has already expired. Further information in this page.</i>";return}
+  var remainingDays=Math.floor(timeDifference/(1000*60*60*24));var remainingHours=Math.floor((timeDifference%(1000*60*60*24))/(1000*60*60));var remainingMinutes=Math.floor((timeDifference%(1000*60*60))/(1000*60));document.getElementById("result").innerHTML="<i>License expires in: "+remainingDays+" days, "+remainingHours+" hours, "+remainingMinutes+" minutes.</i>"}
+  window.onload=calculateRemainingTime</script>
 </body>
 </html>
