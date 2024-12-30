@@ -1,5 +1,5 @@
 //
-// Copyright (C) 2024 The BBJProjeK Organization
+// Copyright (C) 2025 The BBJProjeK Organization
 //
 
 const qs = document.querySelector.bind(document);

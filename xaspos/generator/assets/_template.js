@@ -1,5 +1,5 @@
 var template = `<!DOCTYPE html>
-<!-- Copyright (C) 2024 The BBJProjeK Organization -->
+<!-- Copyright (C) 2025 The BBJProjeK Organization -->
 
 <html lang="en">
 <head>
@@ -45,6 +45,7 @@ var template = `<!DOCTYPE html>
       <a href="#topic">[ topic ]</a>
     </li>
   </ul><br><br>
+
 </body>
 </html>
 `;
