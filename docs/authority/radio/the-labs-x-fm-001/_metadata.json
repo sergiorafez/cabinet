@@ -1,0 +1,297 @@
+[
+  {
+     "id": "0",
+     "name": "The Labs X FM",
+     "date": "2023-11-24",
+     "songs": 36,
+     "size": 347382305,
+     "version": 1.0,
+     "builder": "sergio",
+     "buildtype": "production",
+     "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/",
+     "download_url": "https://pixeldrain.com/u/SXjYMVCF",
+     "hosts": [
+        {
+           "hostuser": "cliff lane",
+           "versions": [
+              "zero"
+           ]
+        },
+        {
+          "hostuser": "andee",
+          "versions": [
+             "zero"
+          ]
+       }
+     ]
+  },
+  {
+    "id": "1",
+    "name": "The Labs X FM (DLC 1)",
+    "date": "2024-01-29",
+    "songs": 12,
+    "size": 103525938,
+    "version": 1.0,
+    "builder": "sergio",
+    "buildtype": "production",
+    "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc1",
+    "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=8rk6lv4zAW2DV6rsHgSksvhId9qKImpRxScN",
+    "hosts": [
+       {
+          "hostuser": "cliff lane",
+          "versions": [
+             "zero"
+          ]
+       },
+       {
+         "hostuser": "andee",
+         "versions": [
+            "zero"
+         ]
+      }
+    ]
+ },
+ {
+  "id": "2",
+  "name": "The Labs X FM (DLC 2)",
+  "date": "2024-02-06",
+  "songs": 8,
+  "size": 82332018,
+  "version": 1.0,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc2",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=WU89azyuW58kAMhToneNflOfYFZ4Ny2QbCfR",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "3",
+  "name": "The Labs X FM (DLC 3)",
+  "date": "2024-02-17",
+  "songs": 10,
+  "size": 81292340,
+  "version": 1.0,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc3",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=WU89azyuW58kAMhToneNflOfYFZ4Ny2QbCfR",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "4",
+  "name": "The Labs X FM (DLC 4)",
+  "date": "2024-03-10",
+  "songs": 10,
+  "size": 90508334,
+  "version": 1.0,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc4",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=trjWKKkKDGE46DCdPFY9WUGiAoTLIdojFce1",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "5",
+  "name": "The Labs X FM (DLC 5)",
+  "date": "2024-03-29",
+  "songs": 12,
+  "size": 111142574,
+  "version": 1.0,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc5",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=77q0PJAw9cwdeRbKwsU8nh0ywBd2hKuSshu9",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "6",
+  "name": "The Labs X FM (DLC 6)",
+  "date": "2024-05-01",
+  "songs": 8,
+  "size": 70930761,
+  "version": 3.1,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc6",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=YOHnXzyZ7apD46vpvv82VI9WOVMz172by1kJ",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "7",
+  "name": "The Labs X FM (DLC 7)",
+  "date": "2024-06-09",
+  "songs": 8,
+  "size": 66458278,
+  "version": 3.1,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc7",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=nKXJrZaNnS9EE3RH2NlLhz5gKATrcwM4TtA9",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ]
+},
+{
+  "id": "8",
+  "name": "The Labs X FM (DLC 8)",
+  "date": "2024-07-01",
+  "songs": 16,
+  "size": 163599201,
+  "version": 3.1,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc8",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=NPBqOTa9LLKFBMmp3PjzOicS6pvxE8o8Apk2",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ],
+  "spotify_ids": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/_sptracklis8.txt"
+},
+{
+  "id": "9",
+  "name": "The Labs X FM (DLC 9)",
+  "date": "2024-08-04",
+  "songs": 14,
+  "size": 137697962,
+  "version": 3.1,
+  "builder": "sergio",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc9",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=htKUdQnBjJeuc2NlSkpAYDA7FLJvoDN1WmZQ",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    }
+  ],
+  "spotify_ids": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/_sptracklis9.txt"
+},
+{
+  "id": "10",
+  "name": "The Labs X FM (DLC 10)",
+  "date": "2024-12-27",
+  "songs": 12,
+  "size": 112091892,
+  "version": 3.1,
+  "builder": "dynelarsen",
+  "buildtype": "production",
+  "info_url": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/dlc10",
+  "download_url": "https://get.cdn.bbjprojek.org/download_private_full?token=DjHA4EpAADvWzdOAJRXbp1eB1PWUXiSeMLzu",
+  "hosts": [
+     {
+        "hostuser": "cliff lane",
+        "versions": [
+           "zero"
+        ]
+     },
+     {
+       "hostuser": "andee",
+       "versions": [
+          "zero"
+       ]
+    },
+    {
+      "hostuser": "jeff berlin",
+      "versions": [
+         "zero"
+      ]
+   }
+  ],
+  "spotify_ids": "https://cabinet.bbjprojek.org/docs/authority/radio/the-labs-x-fm-001/optional-packages/_sptracklis10.txt"
+}
+]
